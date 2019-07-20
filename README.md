@@ -1,4 +1,4 @@
-# Computer science mini project
+# Sea Patrol
 
 An implementation of the graph ADT in order to solve a 2D path finding problem of the Northen Sea.
 
